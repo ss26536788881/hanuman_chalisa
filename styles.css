@@ -1,0 +1,16 @@
+#target{
+
+    padding:2% 3%;
+    background:orangered;
+    color:black;
+    border:none;
+    border-radius:80px;
+}
+
+#target:hover{
+
+    background:black;
+    color:white;
+    transition: 0.2s;
+    cursor: pointer;
+}
